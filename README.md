@@ -1,7 +1,4 @@
 ## XAI_Tutorial_Wonsang
-
-
-## XAI_Tutorial_Wonsang
 XAI공부를 위한 Git
 
 ## 설명
